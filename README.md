@@ -8,6 +8,15 @@
 
 </a>
 <p>We Are Anonymous, We Are Legion, We Do Not Forgive, We Do Not Forget. Welcome To Kottoor Cyber Team</p>
+
+
+<h2>FOLLOW THE COMMANTS FOR TERMUX USERS</h2>
+<p>$ apt update && upgrade -y</p>
+<p>$ pkg install git -y</p>
+<p>$ git clone  </p>
+<p>$ cd new</p>
+<p>$ chmod +x *</p>
+<p>$ bash kottoor.sh</p>
 </head>
 <body>
 
